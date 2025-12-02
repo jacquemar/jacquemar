@@ -77,21 +77,33 @@
 ### 🧾 Connect2Card  
 > Application de gestion de cartes de visite / networking
 
-- ⚙️ **Stack** : TODO (Next.js ? React Native ? Nest ?)
-- ✨ **Fonctionnalités** : TODO – Ex: gestion de contacts, QR code, sync cloud, etc.
-- 🔗 **Lien** : [Voir le repo](https://github.com/jacquemar/TODO-CONNECT2CARD)
+- ⚙️ **Stack** : (Next.js, Nest, MongoDB, Redux)
+- ✨ **Fonctionnalités** : gestion de contacts, messages, prise de rendez-vous, QR code, sync cloud, etc.
+- 🔗 **Lien** : [Visiter ..](https://connect2card.com/)
 
 ---
 
 ### 🛒 Vique – SaaS e-commerce
 
-- ⚙️ **Stack** : Next.js · NestJS · PostgreSQL  
-- 💡 **Concept** : Plateforme e-commerce **SaaS** modulaire pour vendeurs
+- ⚙️ **Stack** : Next.js · NestJS · PostgreSQL · ReduxToolkit  
+- 💡 **Concept** : Plateforme e-commerce **SaaS** modulaire pour vendeurs 
 - ✅ **Points clés** :
-  - Authentification, gestion des produits & des commandes
+  - Authentification, gestion des produits, des clients, des codes promo & des commandes
   - Dashboard admin
-  - API REST/GraphQL (TODO préciser)
-- 🔗 **Lien** : [Voir le repo](https://github.com/jacquemar/TODO-VIQUE)
+  - API REST
+- 🔗 **Lien** : [Visiter ..](http://35.181.159.150:1300/login)
+
+---
+
+### 🛒 PrintXpress - service d'impression en ligne
+
+- ⚙️ **Stack** : Next.js · NestJS · MongoDB · ReduxToolkit · S3 · Twilio API · Resend Api
+- 💡 **Concept** : Plateforme e-commerce avec possibilité de personnalisation des articles
+- ✅ **Points clés** :
+  - commande sans authentification, dashboard d'administration, systeme de personnalisation, et de notification whatsapp et email
+  - Dashboard admin
+  - API REST
+- 🔗 **Lien** : [Visiter l'app ..](https://printpolaroids.ci/), [Visiter le dashboard ..](https://dashboard.printpolaroids.ci/)
 
 ---
 
@@ -100,7 +112,20 @@
 - ⚙️ **Stack** : NestJS · React Native  
 - 🩻 **Objectif** : Gestion et suivi des mesures INR pour les patients
 - 🔒 **Focus** : sécurité des données, UX simplifiée pour les professionnels de santé
-- 🔗 **Lien** : [Voir le repo](https://github.com/jacquemar/TODO-INR)
+- 🔗 **Lien** : [Voir le repo](https://github.com/jacquemar/inr)
+
+---
+
+### 📡 AQ54 - Air Quality DASHBOARD project
+AQ54 est un projet de surveillance de la qualité de l'air à Abidjan. Ce projet consiste à déployer des capteurs environnementaux pour mesurer les concentrations de particules fines dans l'air dans différentes zones urbaines, puis à visualiser ces données via une application web.
+
+- ⚙️ **Stack** : react · Nest · NeonDB · GooglePlateforme · Docker 
+- 🏫 **But** : Le projet AQ54 repose sur l'utilisation de capteurs Airqino, une technologie développée en collaboration avec le Conseil National Italien de la Recherche (CNR), pour surveiller la pollution atmosphérique dans les zones urbaines d'Abidjan. Deux capteurs, SMART188 et SMART189, sont déployés pour collecter des données sur la qualité de l'air sur un périmètre de 300 mètres.
+- 📲 **Fonctionnalités** : Visualisation des données : Accès aux données de qualité de l'air (tempExt, hr, PM2.5, PM10, NO2, O3) à partir des capteurs déployés.
+Agrégation des données : Affichage des données agrégées par heure et par jour via des graphiques.
+Sélection de la plage de temps : Permet à l'utilisateur de consulter les données sur une période définie.
+Tableaux de données : Affichage détaillé des données des capteurs sous forme de tableau.
+- 🔗 **Lien** : [Voir le repo](https://github.com/jacquemar/AQ54)
 
 ---
 
@@ -109,7 +134,7 @@
 - ⚙️ **Stack** : Linux · Apache · Kannel · PHP/MySQL  
 - 🏫 **But** : Plateforme de notifications SMS pour établissements scolaires
 - 📲 **Fonctionnalités** : envoi en masse, modèles de messages, reporting
-- 🔗 **Lien** : [Voir le repo](https://github.com/jacquemar/TODO-VAS-SMS)
+- 🔗 **Lien** : [Voir le repo](https://github.com/jacquemar/UIYAsms)
 
 ---
 
@@ -121,7 +146,7 @@
 - 🎯 **Objectif** : portail cartographique pour la gestion des **certificats fonciers** et la **délimitation des territoires de villages** à l’échelle nationale  
 - ⚙️ **Stack** : React · Spring Boot · PostgreSQL + PostGIS · LADM (modèle d’administration du territoire)  
 - 🌍 **Enjeux** : cohérence des données foncières, visualisation multi-échelle, performance sur un large volume de données spatiales  
-- 🌐 **Version dev** : lien interne / dev (non public)
+- 🌐 **Version dev** : [Visiter ..](https://test.geoportail.digifor2.afor-ci.app/)
 
 ---
 
@@ -133,6 +158,7 @@
   - répartition et consultation de toutes les **immobilisations** d’Orange sur le territoire  
 - ⚙️ **Stack** : Angular · Spring Boot · PostgreSQL + PostGIS · Nginx · Docker sur AWS EC2 · CI/CD GitHub Actions · Authentification JWT  
 - 🚀 **Infra** : déploiement containerisé, pipeline CI/CD automatisé, intégration forte avec le cadastre
+- 🌐 **Version dev** : [Visiter ..](http://82.65.148.246:25552/login)
 
 ---
 
