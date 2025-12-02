@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi Everyone, I'm Arnaud TImité
+GIS Developper | Javascript based | UI/UX design 
+---
+## 🚀 About
+- Build Mobile and web apps that help people everyday
+- Focused on learning and improving
+- Enjoyworking on variety of projects
+- AWS? Next.js, NestJS, Docker, CI/CD, DevOps
 
-<!--
-**jacquemar/jacquemar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
 
-Here are some ideas to get you started:
+## 📂 Best projects
+-Connect2Card 
+- 🛒 **Vique (SaaS e-commerce)** – Next.js + Nest + Postgres  
+- 🩺 **Système INR médical** – NestJS + React Native  
+- 📡 **VAS SMS Scolaire** – Linux + Apache + Kannel + PHP/MySQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+➡️ Voir plus dans mes repositories
+
+## 📊 Stats GitHub
+![Stats](https://github-readme-stats.vercel.app/api?username=jacquemar&show_icons=true)
+
+## 🧩 Langages les plus utilisés
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacquemar&layout=compact)
+
+## 🏆 Badges & Contributions
+![Trophies](https://github-profile-trophy.vercel.app/?username=jacquemar&theme=flat)
+
+## 🔗 Retrouvez-moi
+- LinkedIn : 
+- Portfolio : …
+- Email : …
+
