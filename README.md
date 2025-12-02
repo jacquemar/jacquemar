@@ -20,6 +20,7 @@
 - 🧭 **Spécialisé en SIG**, géolocalisation et data spatiale
 - 📚 Toujours en train d’**apprendre** et d’itérer sur mes projets
 - ☁️ Intéressé par l’**AWS**, l’architecture **cloud**, le **CI/CD** et le **DevOps**
+- 🏢 Actuellement impliqué sur des **projets SIG à l’échelle nationale** (foncier & immobilisations)
 - 🤝 Ouvert aux **collaborations**, surtout sur des projets à impact réel
 
 ---
@@ -33,28 +34,41 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=fff)
 
 ### ⚙️ Backend & API
 
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=fff)
 ![NestJS](https://img.shields.io/badge/NestJS-EA2845?style=for-the-badge&logo=nestjs&logoColor=fff)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=fff)
 
 ### 🗺️ GIS & Outils Cartographiques
 
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=fff)
 ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=fff)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=fff)
+![GeoServer](https://img.shields.io/badge/GeoServer-3A7D44?style=for-the-badge&logo=qgis&logoColor=fff)
+![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6FEB?style=for-the-badge&logo=opengl&logoColor=fff)
 
 ### ☁️ DevOps, Cloud & Outils
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=fff)
+![EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=fff)
+![S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=fff)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F14E32?style=for-the-badge&logo=git&logoColor=fff)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=fff)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=fff)
+
+### 🎨 Design & Collaboration
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
 
 ---
 
@@ -99,6 +113,29 @@
 
 ---
 
+## 🗺️ Projets SIG professionnels récents
+
+### 🗂️ Portail cartographique foncier – AFOR Côte d’Ivoire
+
+- 🏢 **Client** : Agence Foncière Rurale (AFOR), Côte d’Ivoire  
+- 🎯 **Objectif** : portail cartographique pour la gestion des **certificats fonciers** et la **délimitation des territoires de villages** à l’échelle nationale  
+- ⚙️ **Stack** : React · Spring Boot · PostgreSQL + PostGIS · LADM (modèle d’administration du territoire)  
+- 🌍 **Enjeux** : cohérence des données foncières, visualisation multi-échelle, performance sur un large volume de données spatiales  
+- 🌐 **Version dev** : lien interne / dev (non public)
+
+---
+
+### 🟧 Portail géo pour déclaration d’import foncier – Orange Côte d’Ivoire
+
+- 🏢 **Client** : Orange Côte d’Ivoire  
+- 🎯 **Objectif** : portail géospatial connecté au **cadastre ivoirien** pour :  
+  - déclaration d’import foncier  
+  - répartition et consultation de toutes les **immobilisations** d’Orange sur le territoire  
+- ⚙️ **Stack** : Angular · Spring Boot · PostgreSQL + PostGIS · Nginx · Docker sur AWS EC2 · CI/CD GitHub Actions · Authentification JWT  
+- 🚀 **Infra** : déploiement containerisé, pipeline CI/CD automatisé, intégration forte avec le cadastre
+
+---
+
 ## 📊 Stats GitHub
 
 <div align="center">
@@ -122,16 +159,15 @@
 
 ## 🔍 En ce moment
 
-- 📌 **Focus actuel** : TODO (ex: amélioration de Vique, nouveaux features GIS, etc.)
-- 📖 **Ce que j’apprends** : TODO (ex: Terraform, microservices, design system, etc.)
-- 💡 **Ouvert à** : missions freelances, collaborations open-source, projets GIS
+- 📌 **Focus actuel** : portails cartographiques (foncier & immobilisations) à l’échelle du territoire ivoirien  
+- 📖 **Ce que j’apprends** : architecture cloud, bonnes pratiques DevOps & CI/CD, scalabilité des applis SIG  
+- 💡 **Ouvert à** : missions freelances, collaborations open-source, projets GIS à impact
 
 ---
 
 ## 🔗 Me retrouver
 
-- 🔗 **LinkedIn** : [Arnaud Timité](https://www.linkedin.com/in/TODO-LINKEDIN)
-- 🧑‍💻 **Portfolio** : [`TODO-PORTFOLIO`](https://TODO-PORTFOLIO)
-- ✉️ **Email** : [`TODO@EMAIL`](mailto:TODO@EMAIL)
+- 🔗 **LinkedIn** : [Arnaud Timité](https://www.linkedin.com/in/arnaud-timite-6933b5166/)
+- ✉️ **Email** : [`arnaud@timite.net`](mailto:arnaud@timite.net)
 
 > Si un de mes projets t’intéresse, n’hésite pas à ouvrir une issue ou à me contacter directement 😉
