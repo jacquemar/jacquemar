@@ -79,7 +79,7 @@ _"Je construis des apps utiles, belles et accessibles au quotidien."_
 
 ## 🏢 Incantix — Studio Produit Tech
 
-> **Incantix** est un studio technologique dédié à la conception de produits digitaux pour le marché africain francophone — **mobile-first**, paiement local (CinetPay · Wave · Mobile Money), **IA embarquée**.
+> **Incantix** est un studio technologique dédié à la conception de produits digitaux pour le marché africain — **mobile-first**, paiement local ( Wave · Mobile Money), **IA embarquée**.
 
 <br/>
 
