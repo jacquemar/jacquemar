@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=GIS+Developer+%26+Full-Stack+Engineer;Fondateur+%40+Incantix;Building+for+Francophone+Africa+%F0%9F%8C%8D;Mobile-first+%C2%B7+AI-powered+%C2%B7+Impact-driven)](https://git.io/typing-svg)
 
-_"Build des apps utiles, belles et accessibles au quotidien."_
+_"Je construis des apps utiles, belles et accessibles au quotidien."_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnaud_Timité-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaud-timite-6933b5166/)
 [![Connect2Card](https://img.shields.io/badge/Connect2Card-Mes_réseaux-4B9CD3?style=for-the-badge&logo=contactlesspayment&logoColor=white)](https://connect2card.com/tvrnxr)
@@ -19,7 +19,6 @@ _"Build des apps utiles, belles et accessibles au quotidien."_
 
 - 🔭 Full-stack & mobile developer, focus sur l'**UX** et la **performance**
 - 🧭 Spécialisé en **SIG**, géolocalisation et data spatiale
-- 🏢 **Fondateur @ Incantix** — studio produit tech pour le marché africain francophone
 - ☁️ Architecture **cloud** (AWS), **CI/CD**, **DevOps**, pipelines **IA** embarquée
 - 🌍 Projets **SIG à l'échelle nationale** (foncier & immobilisations) en Côte d'Ivoire
 - 🤝 Ouvert aux **collaborations** à impact réel
