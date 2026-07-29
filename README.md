@@ -143,10 +143,10 @@ Transformer une photo produit brute en **visuel de campagne publicitaire profess
 - 🤖 Gemini Vision → analyse de l'image produit
 - ✨ Gemini Text → calibrage du prompt ("Soul")
 - 🎨 **fal.ai FLUX Pro** → génération finale
-- ⚡ Jobs asynchrones via **BullMQ**, stockage **Amazon S3**
+- ⚡ Jobs asynchrones via **BullMQ**, stockage **Cloudflare R2**
 
 **Points clés**
-- 💳 Freemium crédit-based · Stripe + Genius + Mobile Money
+- 💳 Freemium crédit-based · Stripe + CinetPay + Mobile Money
 - 📱 OTA updates via EAS Update
 - 🖼️ Éditeur canvas web (Fabric.js)
 
@@ -180,7 +180,7 @@ Transformer une photo produit brute en **visuel de campagne publicitaire profess
 
 - ⚙️ **Stack** : Next.js · NestJS · PostgreSQL · Redux Toolkit
 - ✨ Auth, gestion produits/clients/commandes/codes promo, dashboard admin, API REST
-- 🔗 [Accéder à l'app](https://vique.net)
+- 🔗 [Accéder à l'app](http://35.181.159.150:1300/login)
 
 ---
 
@@ -191,7 +191,7 @@ Transformer une photo produit brute en **visuel de campagne publicitaire profess
 
 - ⚙️ **Stack** : Next.js · NestJS · MongoDB · Redux Toolkit · AWS S3 · Twilio · Resend
 - ✨ Commande sans auth, personnalisation articles, dashboard admin, notifications WhatsApp & email
-- 🔗 [printpolaroids.ci](https://printxpress.ci/) · [Dashboard admin](https://dashboard.printxpress.ci)
+- 🔗 [printpolaroids.ci](https://printpolaroids.ci/) · [Dashboard admin](https://dashboard.printpolaroids.ci/)
 
 ---
 
