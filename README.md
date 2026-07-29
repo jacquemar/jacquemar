@@ -44,6 +44,8 @@ _"Build des apps utiles, belles et accessibles au quotidien."_
 
 ![NestJS](https://img.shields.io/badge/NestJS-EA2845?style=for-the-badge&logo=nestjs&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=fff)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=fff)
@@ -116,7 +118,7 @@ Connecter **particuliers, agents et agences** sur une plateforme unique — mobi
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-immoafrik-181717?style=for-the-badge&logo=github)](https://github.com/jacquemar/immoafrik)
+[![Visiter](https://img.shields.io/badge/Visiter-immoafrik.incantix.net-6366F1?style=for-the-badge&logo=googlechrome&logoColor=fff)](https://immoafrik.incantix.net)
 
 </td>
 <td width="50%" valign="top">
@@ -142,16 +144,16 @@ Transformer une photo produit brute en **visuel de campagne publicitaire profess
 - 🤖 Gemini Vision → analyse de l'image produit
 - ✨ Gemini Text → calibrage du prompt ("Soul")
 - 🎨 **fal.ai FLUX Pro** → génération finale
-- ⚡ Jobs asynchrones via **BullMQ**, stockage **Cloudflare R2**
+- ⚡ Jobs asynchrones via **BullMQ**, stockage **Amazon S3**
 
 **Points clés**
-- 💳 Freemium crédit-based · Stripe + CinetPay + Mobile Money
+- 💳 Freemium crédit-based · Stripe + Genius + Mobile Money
 - 📱 OTA updates via EAS Update
 - 🖼️ Éditeur canvas web (Fabric.js)
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-photo--boutik-181717?style=for-the-badge&logo=github)](https://github.com/jacquemar/photo-boutik)
+[![Visiter](https://img.shields.io/badge/Visiter-photoboutik.app-6366F1?style=for-the-badge&logo=googlechrome&logoColor=fff)](https://photoboutik.app)
 
 </td>
 </tr>
@@ -179,7 +181,7 @@ Transformer une photo produit brute en **visuel de campagne publicitaire profess
 
 - ⚙️ **Stack** : Next.js · NestJS · PostgreSQL · Redux Toolkit
 - ✨ Auth, gestion produits/clients/commandes/codes promo, dashboard admin, API REST
-- 🔗 [Accéder à l'app](http://35.181.159.150:1300/login)
+- 🔗 [Accéder à l'app](https://vique.net)
 
 ---
 
@@ -190,7 +192,7 @@ Transformer une photo produit brute en **visuel de campagne publicitaire profess
 
 - ⚙️ **Stack** : Next.js · NestJS · MongoDB · Redux Toolkit · AWS S3 · Twilio · Resend
 - ✨ Commande sans auth, personnalisation articles, dashboard admin, notifications WhatsApp & email
-- 🔗 [printpolaroids.ci](https://printpolaroids.ci/) · [Dashboard admin](https://dashboard.printpolaroids.ci/)
+- 🔗 [printpolaroids.ci](https://printxpress.ci/) · [Dashboard admin](https://dashboard.printxpress.ci)
 
 ---
 
@@ -201,7 +203,7 @@ Transformer une photo produit brute en **visuel de campagne publicitaire profess
 
 - ⚙️ **Stack** : NestJS · React Native
 - 🔒 Sécurité des données, UX simplifiée pour les professionnels de santé
-- 🔗 [Voir le repo](https://github.com/jacquemar/inr)
+- 🔒 Projet privé — code non public
 
 ---
 
@@ -212,7 +214,7 @@ Transformer une photo produit brute en **visuel de campagne publicitaire profess
 
 - ⚙️ **Stack** : React · NestJS · NeonDB · Google Platform · Docker
 - ✨ Visualisation temps réel (PM2.5, PM10, NO2, O3), agrégation horaire/journalière, cartographie, tableaux de données
-- 🔗 [Voir le repo](https://github.com/jacquemar/AQ54)
+- 🔒 Projet privé — code non public
 
 ---
 
@@ -221,7 +223,7 @@ Transformer une photo produit brute en **visuel de campagne publicitaire profess
 
 - ⚙️ **Stack** : Linux · Apache · Kannel · PHP · MySQL
 - ✨ Envoi en masse, modèles de messages, reporting
-- 🔗 [Voir le repo](https://github.com/jacquemar/UIYAsms)
+- 🔒 Projet privé — code non public
 
 ---
 
