@@ -169,7 +169,7 @@ Transformer une photo produit brute en **visuel de campagne publicitaire profess
 
 - ⚙️ **Stack** : Next.js · NestJS · MongoDB · Redux
 - ✨ Gestion de contacts, messages, prise de RDV, QR code, sync cloud
-- 🔗 [connect2card.com](https://connect2card.com/)
+- 🔗 [connect2card.com](https://connect.incantix.net/)
 
 ---
 
@@ -180,7 +180,7 @@ Transformer une photo produit brute en **visuel de campagne publicitaire profess
 
 - ⚙️ **Stack** : Next.js · NestJS · PostgreSQL · Redux Toolkit
 - ✨ Auth, gestion produits/clients/commandes/codes promo, dashboard admin, API REST
-- 🔗 [Accéder à l'app](http://35.181.159.150:1300/login)
+- 🔗 [Accéder à l'app](https://vique.net)
 
 ---
 
