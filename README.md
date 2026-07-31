@@ -7,7 +7,7 @@
 _"Je construis des apps utiles, belles et accessibles au quotidien."_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnaud_Timité-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaud-timite-6933b5166/)
-[![Connect2Card](https://img.shields.io/badge/Connect2Card-Mes_réseaux-4B9CD3?style=for-the-badge&logo=contactlesspayment&logoColor=white)](https://connect2card.com/tvrnxr)
+[![Connect2Card](https://img.shields.io/badge/Connect2Card-Mes_réseaux-4B9CD3?style=for-the-badge&logo=contactlesspayment&logoColor=white)](https://connect.incantix.net/tvrnxr)
 [![Email](https://img.shields.io/badge/Email-arnaud%40timite.net-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnaud@timite.net)
 [![Profile Views](https://komarev.com/ghpvc/?username=jacquemar&style=for-the-badge&color=6366F1&label=PROFIL+VIEWS)](https://github.com/jacquemar)
 
@@ -191,7 +191,7 @@ Transformer une photo produit brute en **visuel de campagne publicitaire profess
 
 - ⚙️ **Stack** : Next.js · NestJS · MongoDB · Redux Toolkit · AWS S3 · Twilio · Resend
 - ✨ Commande sans auth, personnalisation articles, dashboard admin, notifications WhatsApp & email
-- 🔗 [printpolaroids.ci](https://printpolaroids.ci/) · [Dashboard admin](https://dashboard.printpolaroids.ci/)
+
 
 ---
 
@@ -236,7 +236,6 @@ Transformer une photo produit brute en **visuel de campagne publicitaire profess
 - 🎯 Portail pour la gestion des **certificats fonciers** et la délimitation des territoires de villages à l'échelle nationale
 - ⚙️ **Stack** : React · Spring Boot · PostgreSQL + PostGIS · LADM
 - 🌍 Cohérence des données foncières, visualisation multi-échelle, gros volumes de données spatiales
-- 🌐 [Version dev](https://test.geoportail.digifor2.afor-ci.app/)
 
 ---
 
@@ -248,7 +247,6 @@ Transformer une photo produit brute en **visuel de campagne publicitaire profess
 - 🎯 Portail géospatial connecté au **cadastre ivoirien** — déclaration d'import foncier & consultation des immobilisations d'Orange sur le territoire
 - ⚙️ **Stack** : Angular · Spring Boot · PostgreSQL + PostGIS · Nginx · Docker · AWS EC2 · GitHub Actions · JWT
 - 🚀 Déploiement containerisé, pipeline CI/CD automatisé, intégration cadastre
-- 🌐 [Version dev](http://82.65.148.246:25552/login)
 
 ---
 
@@ -283,7 +281,7 @@ Transformer une photo produit brute en **visuel de campagne publicitaire profess
 
 - 📌 **Focus** : **ImmoAfrik** (marketplace immobilière) + **Photo Boutik** (génération IA) — portefeuille Incantix
 - 🌍 **GIS** : portails cartographiques foncier & immobilisations à l'échelle ivoirienne
-- 📖 **J'apprends** : architecture cloud avancée, scalabilité des pipelines IA, DevOps & CI/CD
+- 📖 **J'apprends** : architecture cloud avancée, Test, scalabilité des pipelines IA, DevOps & CI/CD
 - 💡 **Ouvert à** : missions freelances, collaborations open-source, projets GIS & tech à impact
 
 ---
