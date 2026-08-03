@@ -189,7 +189,7 @@ _En production_
 
 - **Stack** : Next.js · NestJS · MongoDB · Redux Toolkit · AWS S3 · Twilio · Resend
 - Commande sans auth, personnalisation articles, dashboard admin, notifications WhatsApp & email
-
+- [Accéder à l'app](https://printxpress.ci)
 ---
 
 ### INR+ — Système de suivi médical
@@ -199,26 +199,6 @@ _En production_
 
 - **Stack** : NestJS · React Native
 - Sécurité des données, UX simplifiée pour les professionnels de santé
-- Projet privé — code non public
-
----
-
-### AQ54 — Air Quality Dashboard
-> Surveillance de la qualité de l'air à Abidjan (capteurs Airqino / CNR)
-
-_En production_
-
-- **Stack** : React · NestJS · NeonDB · Google Platform · Docker
-- Visualisation temps réel (PM2.5, PM10, NO2, O3), agrégation horaire/journalière, cartographie, tableaux de données
-- Projet privé — code non public
-
----
-
-### VAS SMS Scolaire
-> Plateforme de notifications SMS pour établissements scolaires
-
-- **Stack** : Linux · Apache · Kannel · PHP · MySQL
-- Envoi en masse, modèles de messages, reporting
 - Projet privé — code non public
 
 ---
