@@ -215,7 +215,7 @@ _Client : AFOR CI · Échelle : Nationale_
 - [Accéder à la demo](https://dev.v2.digifor.ci/auth/login)
 ---
 
-### Portail Géo Import Foncier — Orange Côte d'Ivoire
+### Portail Géo Impôt Foncier — Orange Côte d'Ivoire
 
 _Client : Orange CI · Échelle : Nationale_
 
@@ -249,7 +249,7 @@ _Client : Orange CI · Échelle : Nationale_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnaud_Timité-333333?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaud-timite-6933b5166/)
 [![Email](https://img.shields.io/badge/Email-arnaud%40timite.net-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnaud@timite.net)
-[![Connect2Card](https://img.shields.io/badge/Connect2Card-Mes_réseaux-333333?style=for-the-badge&logo=contactlesspayment&logoColor=white)](https://connect2card.com/tvrnxr)
+[![Connect2Card](https://img.shields.io/badge/Connect2Card-Mes_réseaux-333333?style=for-the-badge&logo=contactlesspayment&logoColor=white)](https://connect.incantix.net/tvrnxr)
 
 _Si un de mes projets t'intéresse, n'hésite pas à ouvrir une issue ou à me contacter._
 
