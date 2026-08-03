@@ -232,7 +232,7 @@ _Client : AFOR CI · Échelle : Nationale_
 - **Objectif** : Portail pour la gestion des certificats fonciers et la délimitation des territoires de villages à l'échelle nationale
 - **Stack** : React · Spring Boot · PostgreSQL + PostGIS · LADM
 - Cohérence des données foncières, visualisation multi-échelle, gros volumes de données spatiales
-
+- [Accéder à la demo](https://dev.v2.digifor.ci/auth/login)
 ---
 
 ### Portail Géo Import Foncier — Orange Côte d'Ivoire
@@ -240,7 +240,7 @@ _Client : AFOR CI · Échelle : Nationale_
 _Client : Orange CI · Échelle : Nationale_
 
 - **Objectif** : Portail géospatial connecté au cadastre ivoirien — déclaration d'import foncier & consultation des immobilisations d'Orange sur le territoire
-- **Stack** : Angular · Spring Boot · PostgreSQL + PostGIS · Nginx · Docker · AWS EC2 · GitHub Actions · JWT
+- **Stack** : Angular · Spring Boot · PostgreSQL + PostGIS · Nginx · Docker · Geo Server · Keycloack 
 - **Infra** : Déploiement containerisé, pipeline CI/CD automatisé, intégration cadastre
 
 ---
@@ -249,32 +249,16 @@ _Client : Orange CI · Échelle : Nationale_
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jacquemar&show_icons=true&hide_border=true&include_all_commits=true&title_color=333333&icon_color=888888&text_color=555555&bg_color=00000000" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacquemar&layout=compact&hide_border=true&title_color=333333&text_color=555555&bg_color=00000000" height="165" />
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com/?user=jacquemar&hide_border=true&background=00000000&border=00000000&stroke=00000000&ring=888888&fire=888888&currStreakNum=333333&currStreakLabel=333333&sideNums=333333&sideLabels=666666&dates=999999" height="165" />
 
 </div>
 
----
-
-## Trophées
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jacquemar&theme=flat&no-frame=true&margin-w=8&margin-h=8&column=7" />
-
-</div>
 
 ---
 
 ## En ce moment
 
-- **Focus** : ImmoAfrik (marketplace immobilière) + Photo Boutik (génération IA) — portefeuille Incantix
+- **Focus** : ImmoAfrik (marketplace immobilière) + Photo Boutik (génération d'image par IA)
 - **GIS** : portails cartographiques foncier & immobilisations à l'échelle ivoirienne
 - **J'apprends** : architecture cloud avancée, Test, scalabilité des pipelines IA, DevOps & CI/CD
 - **Ouvert à** : missions freelances, collaborations open-source, projets GIS & tech à impact
